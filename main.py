@@ -13,8 +13,8 @@ select = " "
 
 docs = """Generate your Telegram String Session
 
-P -->> Pyrogram (Bot Music) [https://docs.pyrogram.org]
-T -->> Telethon (Userbot)   [https://docs.telethon.dev]
+P -->> Pyrogram (Bot Music)
+T -->> Telethon (Userbot)
 """
 
 tutor = """
